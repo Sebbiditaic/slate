@@ -42,7 +42,7 @@ Slate tries to solve the question of "[Why?](Introduction.md#why)" with a few pr
 
 ## Demo
 
-Check out the [**live demo**](http://slatejs.org) of all of the examples!
+Check out the [**live demo**](http://slatejs.org) of all the examples!
 
 ## Examples
 
@@ -84,3 +84,9 @@ If you're maintaining a translation, feel free to pull request it here!
 All contributions are super welcome! Check out the [Contributing instructions](general/contributing.md) for more info!
 
 Slate is [MIT-licensed](https://github.com/ianstormtaylor/slate/tree/f6bfe034d707693488c38da77537fd36cb8856cf/License.md).
+
+## How To Use
+
+`yarn install`
+
+`npm install @types/slate @types/slate-react @types/immutable -s-d`
